@@ -38,25 +38,25 @@ const ContactUs = () => {
           <div
             style={{
               borderRight: "1px solid black",
-              height: "250px",
+              height: "300px",
               position: "absolute",
-              left: "40%",
+              left: "42%",
             }}
           ></div>
           <div
             style={{
-              marginLeft: "10%",
+              marginLeft: "60px",
               display: "flex",
               justifyContent: "center",
               flexDirection: "column",
-              marginRight: "10%",
+              // marginRight: "10%",
             }}
           >
             <label style={{ marginTop: "20px" }}>Name</label>
             <TextField
               id="outlined-multiline-flexible"
               label="Enter Your Name"
-              sx={{ width: "600px" }}
+              sx={{ width: "500px" }}
             />
             <label style={{ marginTop: "20px" }}>Email</label>
             <TextField

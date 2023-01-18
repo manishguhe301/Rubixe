@@ -40,52 +40,28 @@ const Navbar = () => {
                   </div>
                 </div>
               </Typography>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Home
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Services
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Products
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 AI Internship
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Career
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Blog
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 About
               </Button>
-              <Button
-                color="inherit"
-                style={{ marginRight: "30px", fontSize: "1rem" }}
-              >
+              <Button color="inherit" style={{ fontSize: "1rem" }}>
                 Contact us
               </Button>
             </Toolbar>
